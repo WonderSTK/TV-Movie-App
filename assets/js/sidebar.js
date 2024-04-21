@@ -56,9 +56,9 @@ export function sidebar() {
 
     <div class="sidebar-footer">
       <p class="copyright">
-        Copyright 2023
-        <a href="https://github.com/rajeevkrS" class="link"
-          >Rajeev Kumar Sudhansu</a
+        Copyright 2024
+        <a href="https://github.com/Geetikat2002" class="link"
+          >Geetika Thakur</a
         >
       </p>
 
